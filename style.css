@@ -1,0 +1,19 @@
+.duck{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+.h1{
+    text-align: center;
+   color: rgba(109, 3, 209, 0.516);
+}
+.h2{
+    font-family: sans-serif;
+    color: rgba(235, 74, 74, 0.896);
+    margin-left: 60px;
+}
+.paragraph{
+    font-family:sans-serif;
+    line-height:23px;
+    margin-left: 60px;
+}
